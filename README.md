@@ -5,6 +5,10 @@
 <h1 align="center">Bouvet</h1>
 
 <p align="center">
+  🚀 🔒 ⚡ 🛠️ 🧠 💻 🌐 📦 🔥 ✨
+</p>
+
+<p align="center">
   <strong>Isolated code execution sandboxes for AI agents</strong>
 </p>
 
